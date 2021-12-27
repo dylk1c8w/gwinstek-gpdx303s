@@ -17,7 +17,7 @@ or
 ```sh
 python setup.py develop
 ```
-Then Agilent83623B will be installed.  
+Then GWInstekGPDx303S will be installed.  
 
 ## Change log
 ver 0.0.0 - initial version  

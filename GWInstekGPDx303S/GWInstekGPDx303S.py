@@ -12,12 +12,6 @@ __version__ = "0.0.0"
 __date__ = "2021/09/02"
 
 
-# constants
-# IO_DICT = {0: "OFF", 1: "ON"}
-# TRACKINGMODE_DICT = {0:"独立", 1:"直列トラッキング", 2:"並列トラッキング"}
-# BAUDRATE_DICT = {0: 115200, 1: 57600, 2: 9600}
-
-
 class GWInstekGPDx303S:
     def __init__(self, port):
         """establishe communication with the GWInstek GPDx303S
